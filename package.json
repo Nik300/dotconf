@@ -1,7 +1,9 @@
 {
-  "name": "dotconf",
+  "name": "@nik300/type-env",
   "version": "1.0.0",
   "description": "",
+  "main": "dist/index.js",
+  "types": "types/index.d.ts",
   "scripts": {
     "prestart": "tsc",
     "start": "node ./dist"
