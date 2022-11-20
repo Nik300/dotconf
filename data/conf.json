@@ -1,0 +1,7 @@
+{
+    "Object": {
+        "NumberProperty": 1,
+        "StringProperty": "Hello, config!"
+    },
+    "NumbersArray": [1, 2, 3, 4]
+}
